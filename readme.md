@@ -1,5 +1,8 @@
-# Bookings
+# Hotel Booking System
 
-The repository for [Building Modern Web Applications with Go](https://www.udemy.com/course/building-modern-web-applications-with-go/?referralCode=0415FB906223F10C6800).
+A Comprehensive Hotel Booking System using GoLang
 
-
+-   Built in Go version 1.19
+-   User the [chi](github.com/go-chi/chi) router
+-   Uses [Alex Edwards SCS](github.com/alexedwards/scs/v2) session management
+-   User [nosurf](github.com/justinas/nosurf)
